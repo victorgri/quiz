@@ -4,7 +4,7 @@
 - Clone this repo
 - You need Node v20
 - Open it on your IDE
-- Open new terminl
+- Open new terminal
 - Enter npm i
 - Enter npm run dev
 - Enjoy
